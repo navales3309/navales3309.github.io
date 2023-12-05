@@ -1,4 +1,4 @@
 # navales3309.github.io
 Emmanuel R. Navales
-# Drawing **TIPS** to help you improve
-![alt text](https://static.boredpanda.com/blog/wp-content/uploads/2015/12/drawing-skills-before-after-161.jpg)
+# What is Pi and its number?
+	![alt text](https://4.bp.blogspot.com/-e-b58sOZeoI/VucgaSToqnI/AAAAAAAATOQ/If1q8dOQK4gv90pBUlewGCZlIKyAGm4Fw/s1600/pi2.jpg)
