@@ -1,6 +1,6 @@
 # navales3309.github.io
 Emmanuel R. Navales
-# What is Pi and its number?
+# What is Pi and its origins?
 ![alt text](https://static.scientificamerican.com/sciam/cache/file/136B824E-D306-4855-AF5EC22E68ACC4D8_source.jpg?w=1200)
 Succinctly, pi—which is written as the Greek letter for p, or π—is the ratio of the circumference of any circle to the diameter of that circle. Regardless of the circle's size, this ratio will always equal pi. In decimal form, the value of pi is approximately 3.14. But pi is an irrational number, meaning that its decimal form neither ends (like 1/4 = 0.25) nor becomes repetitive (like 1/6 = 0.166666...). (To only 18 decimal places, pi is 3.141592653589793238.) Hence, it is useful to have shorthand for this ratio of circumference to diameter. According to Petr Beckmann's A History of Pi, the Greek letter π was first used for this purpose by William Jones in 1706, probably as an abbreviation of periphery, and became standard mathematical notation roughly 30 years later.
 
