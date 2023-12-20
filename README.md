@@ -1,4 +1,4 @@
 # navales3309.github.io
 Emmanuel R. Navales
 # What is Pi and its number?
-	![alt text](https://assets.newatlas.com/dims4/default/e214c5c/2147483647/strip/true/crop/1401x934+300+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F15%2Fb9%2Fb2fdc95043849cd4325a477f65c1%2Fpi.jpg)
+![alt text](https://static.scientificamerican.com/sciam/cache/file/136B824E-D306-4855-AF5EC22E68ACC4D8_source.jpg?w=1200)
