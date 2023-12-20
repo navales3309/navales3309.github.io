@@ -14,4 +14,4 @@ Pi is most commonly used in certain computations regarding circles. Pi not only 
 
 The importance of pi has been recognized for at least 4,000 years. A History of Pi notes that by 2000 B.C., "the Babylonians and the Egyptians (at least) were aware of the existence and significance of the constant π," recognizing that every circle has the same ratio of circumference to diameter. Both the Babylonians and Egyptians had rough numerical approximations to the value of pi, and later mathematicians in ancient Greece, particularly Archimedes, improved on those approximations. By the start of the 20th century, about 500 digits of pi were known. With computation advances, thanks to computers, we now know more than the first six billion digits of pi.
 
-source: https://www.scientificamerican.com/article/what-is-pi-and-how-did-it-originate/
+Source: https://www.scientificamerican.com/article/what-is-pi-and-how-did-it-originate/
